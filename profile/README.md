@@ -2,6 +2,9 @@
 
 ![HomePage](https://raw.githubusercontent.com/QuanLyGiangVien/.github/main/profile/home.png)
 
+## Báo cáo dự án:
+- [**Quản Lý Giảng Viên**](https://quanlygiangvien.gitbook.io/docs/)
+
 ## Những điều cơ bản về phần mềm này:
 ### Công nghệ:
 ```Code
